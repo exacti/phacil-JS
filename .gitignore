@@ -73,7 +73,8 @@ fabric.properties
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -563,3 +564,4 @@ dwsync.xml
 dw_php_codehinting.config
 *.mno
 
+config.json
